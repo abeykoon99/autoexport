@@ -2,8 +2,8 @@
 
 ## Team Members
 
-	•	COMPONENT 01 - Abeykoon A.M.Y.S - IT21187896
-	•	COMPONENT 02 - Rashmika M.G.T - IT21167546
+	•	COMPONENT 01 - Rashmika M.G.T - IT21167546
+	•	COMPONENT 02 - Abeykoon A.M.Y.S - IT21187896
 	•	COMPONENT 03 - Balamanage T.G - IT20301118
 	•	COMPONENT 04 - Kumara L.A.I - IT21180484
 
